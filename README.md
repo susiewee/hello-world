@@ -1,2 +1,5 @@
 # hello-world
-Creating a GitHub Hello World repo
+
+Hi Everyone!
+Creating a GitHub Hello World repo.
+Branching and editing.
